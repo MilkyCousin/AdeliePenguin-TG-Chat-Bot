@@ -2,6 +2,7 @@ import os
 import sqlite3
 import datetime
 
+
 class DatabaseClass:
 
     def __init__(self, db_path):
